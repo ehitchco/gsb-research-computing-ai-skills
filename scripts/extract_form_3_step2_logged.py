@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 
 load_dotenv()
 
-FILING = "Cheniere_Energy_Inc"    # the one thing you change between runs
+FILING = "FLOWSERVE_CORP"    # the one thing you change between runs
 MODEL = "gemini-2.5-flash-lite"
 RESULTS_DIR = "results"
 
